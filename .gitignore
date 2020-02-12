@@ -3,3 +3,6 @@
 ################################################################################
 
 /packages
+/TokenAuthenticationWEBAPI/bin
+/TokenAuthenticationWEBAPI/obj/Debug
+/.vs
